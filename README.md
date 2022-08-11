@@ -1,0 +1,1 @@
+# Analog-Devices-ADXL355Z-STM32-HAL-Based-Driver
